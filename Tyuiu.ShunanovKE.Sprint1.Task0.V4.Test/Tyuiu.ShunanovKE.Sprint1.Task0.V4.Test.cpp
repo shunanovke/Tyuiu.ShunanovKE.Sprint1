@@ -18,7 +18,7 @@ namespace UnitTest0
 			int b = 4;
 			int ans;
 
-			//run
+			//Run
 			ans = c->Calculate(a, b);
 
 			Assert::AreEqual(ans, 24);

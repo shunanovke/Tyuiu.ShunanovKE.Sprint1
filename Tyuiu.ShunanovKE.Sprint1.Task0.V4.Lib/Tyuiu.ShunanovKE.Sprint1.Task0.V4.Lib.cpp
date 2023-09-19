@@ -1,4 +1,4 @@
-﻿// Tyuiu.ShunanovKE.Sprint1.Task0.V4.Lib.cpp : Defines the functions for the static library.
+﻿// Tyuiu.ShunanovKE.Sprint1.Task0.V4.Lib.cpp: Defines the functions for the static library.
 //
 
 #include "pch.h"
