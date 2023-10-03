@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.ShunanovKE.Sprint1.Task0.V0.Lib;
 
+
 namespace Tyuiu.ShunanovKE.Sprint1.Task0.V0
 {
     class Program
@@ -33,6 +34,7 @@ namespace Tyuiu.ShunanovKE.Sprint1.Task0.V0
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine(ds.Calculate());
+
             Console.ReadKey();
         }
     }
