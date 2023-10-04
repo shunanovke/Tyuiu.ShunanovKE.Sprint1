@@ -5,14 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-
-namespace Tyuiu.ShunanovKE.Sprint1.Task0.V0.Lib
+namespace Tyuiu.ShunanovKE.Sprint1.Task0.V30.Lib
 {
-    public class DataService : ISprint1Task0V3
+    public class DataService : ISprint1Task0V30
     {
         public double Calculate()
         {
-            return (6 / 2 * 3) / 9;
+            return 20 * 5 - 4;
         }
     }
 }
